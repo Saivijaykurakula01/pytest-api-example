@@ -1,0 +1,7 @@
+flask
+flask-restx
+requests
+pytest
+pytest-html
+pyhamcrest
+jsonschema
